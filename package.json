@@ -1,0 +1,17 @@
+{
+  "name": "learnyounode-workshop",
+  "version": "1.0.0",
+  "description": "Learn you node workshop",
+  "main": "async-io.js",
+  "dependencies": {
+    "bl": "^1.0.0",
+    "concat-stream": "^1.5.0",
+    "learnyounode": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Ibarra",
+  "license": "ISC"
+}
