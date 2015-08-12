@@ -4,8 +4,8 @@
   "description": "Learn you node workshop",
   "main": "async-io.js",
   "dependencies": {
+    "async": "^1.4.2",
     "bl": "^1.0.0",
-    "concat-stream": "^1.5.0",
     "learnyounode": "^2.7.1"
   },
   "devDependencies": {},
