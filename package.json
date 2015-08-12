@@ -1,0 +1,16 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "A continuación se listan los archivos por cada ejercicio del workshop:",
+  "main": "async-io.js",
+  "dependencies": {
+    "bl": "^1.0.0",
+    "concat-stream": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Ibarra",
+  "license": "ISC"
+}
