@@ -9,7 +9,7 @@ A continuación se listan los archivos por cada ejercicio del workshop:
 -**FILTERED LS**: filtered-ls.js
 -**MAKE IT MODULAR**: modular.js (main), worker-module (module)
 -**HTTP CLIENT**: http-client.js
--**HTTP COLLECT**:
+-**HTTP COLLECT**: http-collect.js
 -**JUGGLING ASYNC**:
 -**TIME SERVER**:
 -**HTTP FILE SERVER**:
