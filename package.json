@@ -1,11 +1,12 @@
 {
-  "name": "learnyounode",
+  "name": "learnyounode-workshop",
   "version": "1.0.0",
-  "description": "A continuación se listan los archivos por cada ejercicio del workshop:",
+  "description": "Learn you node workshop",
   "main": "async-io.js",
   "dependencies": {
     "bl": "^1.0.0",
-    "concat-stream": "^1.5.0"
+    "concat-stream": "^1.5.0",
+    "learnyounode": "^2.7.1"
   },
   "devDependencies": {},
   "scripts": {
